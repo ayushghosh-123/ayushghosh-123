@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayushghosh-123
+- 👋 Hi, I’m ayush (coder)
 - 👀 I’m interested in cricket..
 - 🌱 I’m currently learning web devolopment
 - 💞️ I’m looking to collaborate on tech industry
