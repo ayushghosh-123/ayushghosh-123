@@ -9,10 +9,17 @@
 
 - 👯 I’m looking to collaborate on **HMS**
 
+- 💬 Ask me about **MERN STACK**
+
 - 📫 How to reach me **ghoshayush910@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/ayushghosh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ayushghosh123" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
