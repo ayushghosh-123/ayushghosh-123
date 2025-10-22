@@ -11,7 +11,7 @@
 * 🍀 I'm currently leraning FullStack GenAi
 * 🔈 Ask me about MERN Stack, GenAi Application
 
-* 🧑‍💻  Currently trying to build a on GenAI project that make to a client base or LLM based application
+* 🧑‍💻  I’m currently working on a GenAI project and exploring whether to make it client-focused or LLM-based.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
