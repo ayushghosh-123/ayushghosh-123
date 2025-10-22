@@ -1,21 +1,17 @@
 <h1 align="center">Hello 👋, I'm Ayush Ghosh</h1>
-<h3 align="center">A passionate FULL STACK from India</h3>
+<h3 align="center">A passionate Web Developer and Gen Ai Enthusiast 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushghosh-123&label=Profile%20views&color=0e75b6&style=flat" alt="ayushghosh-123" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushghosh-123" alt="ayushghosh-123" /></a> </p>
 
-- 🔭 I’m currently working on **Note Khazana**
+<h3 align="left"> 👨 About Me:</h3>
 
-- 👯 I’m looking to collaborate on **HMS**
+* 🏠 I'm a BCA graduated with a CGPA Of 8.24
+* 🍀 I'm currently leraning FullStack GenAi
+* 🔈 Ask me about MERN Stack, GenAi Application
 
-- 💬 Ask me about **MERN STACK**
-
-- 📫 How to reach me **ghoshayush910@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+* 🧑‍💻  Currently trying to build a on GenAI project that make to a client base or LLM based application
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
